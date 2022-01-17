@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4cha&layout=compact&theme=vue)](https://github.com/s4cha/github-readme-stats)
+
+![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=s4cha&show_icons=true&include_all_commits=true&count_private=true&role=ORGANIZATION_MEMBER,COLLABORATOR&theme=vue)
+
+
+
